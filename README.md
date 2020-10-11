@@ -18,5 +18,5 @@ Skills: Python / Java / C# / Data Science / Oracle / MySQL
 
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/xawbeenregmi&show_icons=true)  
+[![Sabin's github stats](https://github-readme-stats.vercel.app/api?username=xawbeenregmi)](https://github.com/anuraghazra/github-readme-stats)
 
