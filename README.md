@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Sabin Regmi
 #### Software Engineer / Programmer / Python Developer
-A recently graduated IT student is trying to utilize his skills with an intension of achieving more experiences and skills for the current IT market and now is seeking a place to work and explore his skills in the field of Data Science and AI.
+A recently graduated IT student is trying to utilize his skills with an intension of achieving more experiences and skills for the current IT market and now is seeking a place to work and explore his skills in the field of Technology
 
 Skills: Python / Java / C# / Data Science / Oracle / MySQL 
 
