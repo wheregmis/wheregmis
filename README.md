@@ -4,7 +4,7 @@ A recently graduated IT student is trying to utilize his skills with an intensio
 
 Skills: Python / Java / C# / Data Science / Oracle / MySQL 
 
-- 🔭 I’m currently working on developing my owl skills 
+- 🔭 I’m currently working on developing my own skills 
 - 🌱 I’m currently learning Data Science and AI 
 - 👯 I’m looking to collaborate on on Real World Projects 
 - 🤔 I’m looking for help with Artificial Intelligence 
