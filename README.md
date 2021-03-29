@@ -1,10 +1,10 @@
 ### Hi there 👋, I am Sabin Regmi
-#### Software Engineer / Programmer / Python Developer
+#### Software Engineer / Programmer / Data Scientist
 ### Dean of the School of AI, Nepal
 ### Founder of SRHQ Nepal
-A recently graduated IT student is trying to utilize his skills with an intension of achieving more experiences and skills for the current IT market and now is seeking a place to work and explore his skills in the field of Technology
+An Machine Learning Enthusiast is trying to utilize his skills with an intension of achieving more experiences and skills for the current IT market and now is seeking a place to work and explore his skills in the field of Technology
 
-Skills: Python / Java / C# / Data Science / Oracle / MySQL 
+Skills: Python / Java / C# / Data Science / Oracle / MySQL / Flutter / Dart / React
 
 - 🔭 I’m currently working on developing my own skills 
 - 🌱 I’m currently learning Data Science and AI 
