@@ -11,7 +11,7 @@ Skills: Python / Java / C# / Data Science / Oracle / MySQL / Flutter / Dart / Re
 - 👯 I’m looking to collaborate on on Real World Projects 
 - 🤔 I’m looking for help with Artificial Intelligence 
 - 💬 Ask me about C# and Java 
-- 📫 How to reach me: Email - xawbeenregmi@gmail.com 
+- 📫 How to reach me: 
 - 😄 Pronouns: He/His 
 - ⚡ Fun fact: I love to try Google Camera Modding and working on it 
 
