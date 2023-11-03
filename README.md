@@ -8,11 +8,11 @@ I'm the founder of **SRHQ Nepal**, a hub for cutting-edge technology and innovat
 - **Languages:** Rust / Python / Flutter / Dart
 - **Data Science:** Machine Learning, AI Concepts, Big Data Analysis
 - **Databases:** Oracle / MySQL
-- **Web Development:** React
+- **Web Development:** Vue JS
 
 ### Current Endeavors:
 - 🔭 Expanding my mastery in Rust, Flutter, and Python.
-- 🌱 Diving deeper into the world of Data Science and AI.
+- 🌱 Exploring the capabilities of large language models and their applications in software engineering.
 - 👯 Keen on collaborating on impactful Real World Projects.
 - 🤔 Seeking guidance and collaboration in the realm of Artificial Intelligence.
 - 💬 Happy to discuss Rust, Flutter, and the intricacies of Data Science.
