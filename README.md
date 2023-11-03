@@ -1,22 +1,34 @@
-### Hi there 👋, I am Sabin Regmi
-#### Software Engineer / Programmer / Data Scientist
-### Dean of the School of AI, Nepal
-### Founder of SRHQ Nepal
-An Machine Learning Enthusiast is trying to utilize his skills with an intension of achieving more experiences and skills for the current IT market and now is seeking a place to work and explore his skills in the field of Technology
+# 👋 Hi, I’m Sabin Regmi
 
-Skills: Python / Java / C# / Data Science / Oracle / MySQL / Flutter / Dart / React
+## Software Engineer / Programmer / Rust Enthusiast / Data Scientist
 
-- 🔭 I’m currently working on developing my own skills 
-- 🌱 I’m currently learning Data Science and AI 
-- 👯 I’m looking to collaborate on on Real World Projects 
-- 🤔 I’m looking for help with Artificial Intelligence 
-- 💬 Ask me about C# and Java 
-- 📫 How to reach me: 
-- 😄 Pronouns: He/His 
-- ⚡ Fun fact: I love to try Google Camera Modding and working on it 
+I'm the founder of **SRHQ Nepal**, a hub for cutting-edge technology and innovation. As a passionate Machine Learning enthusiast, I'm harnessing my skills with the goal of not just keeping pace, but setting the pace in the ever-evolving IT market. I'm on the lookout for opportunities to push the boundaries of technology and apply my expertise in real-world scenarios.
+
+### 🛠 Skills:
+- **Languages:** Rust / Python / Flutter / Dart
+- **Data Science:** Machine Learning, AI Concepts, Big Data Analysis
+- **Databases:** Oracle / MySQL
+- **Web Development:** React
+
+### Current Endeavors:
+- 🔭 Expanding my mastery in Rust, Flutter, and Python.
+- 🌱 Diving deeper into the world of Data Science and AI.
+- 👯 Keen on collaborating on impactful Real World Projects.
+- 🤔 Seeking guidance and collaboration in the realm of Artificial Intelligence.
+- 💬 Happy to discuss Rust, Flutter, and the intricacies of Data Science.
+- 📫 Reach out to me [here](your-contact-link).
+
+### Personal Tidbits:
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I'm an aficionado of Google Camera Modding and enjoy exploring its capabilities.
+
+## Connect with me:
+- LinkedIn: [Sabin Regmi](https://www.linkedin.com/in/wheregmis/)
+- Email: [Sabin Regmi](get2sabin@gmail.com)
+
+Join me on this journey of discovery and innovation. Let's code, create, and collaborate to make a difference!
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/xawbeenregmi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/xawbeenregmi//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/xawbeenregmi1996/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/xawbeenregmi/?hl=en/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/RegmiXawbeen)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCDhLP1K9BQMESxyl-6aFKjQ?view_as=subscriber)  
 
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a>
 
