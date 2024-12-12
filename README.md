@@ -1,21 +1,21 @@
-# 👋 Hi, I’m Sabin Regmi
+# 👋 Hi, I'm Sabin Regmi
+## Software Engineer / Rust Enthusiast
 
-## Software Engineer / Programmer / Rust Enthusiast / Data Scientist
-
-I'm the founder of **SRHQ Nepal**, a hub for cutting-edge technology and innovation. As a passionate Machine Learning enthusiast, I'm harnessing my skills with the goal of not just keeping pace, but setting the pace in the ever-evolving IT market. I'm on the lookout for opportunities to push the boundaries of technology and apply my expertise in real-world scenarios.
+As a passionate Rust programmer, I'm harnessing my skills with the goal of not just keeping pace, but setting the pace in the ever-evolving IT market. I'm currently working on TROES Corp, a battery manufacturer, where I'm focused on developing battery management systems and remote monitoring solutions.
 
 ### 🛠 Skills:
 - **Languages:** Rust / Python / Flutter / Dart
+- **Battery Technology:** Battery Management Systems, Protocols (MQTT, Modbus)
 - **Data Science:** Machine Learning, AI Concepts, Big Data Analysis
-- **Databases:** Oracle / MySQL
-- **Web Development:** Vue JS
+- **Databases:** MySQL / InfluxDB
+- **Web Development:** Dioxus, Axum, React
 
 ### Current Endeavors:
-- 🔭 Expanding my mastery in Rust, Flutter, and Python.
-- 🌱 Exploring the capabilities of large language models and their applications in software engineering.
-- 👯 Keen on collaborating on impactful Real World Projects.
-- 🤔 Seeking guidance and collaboration in the realm of Artificial Intelligence.
-- 💬 Happy to discuss Rust, Flutter, and the intricacies of Data Science.
+- 🔭 Deepening my expertise in Rust, particularly in the domain of battery management system development and remote monitoring.
+- 🌱 Exploring the capabilities of large language models and their potential applications in software engineering and battery technology.
+- 👯 Keen on collaborating on impactful real-world projects, especially in the renewable energy and battery technology space.
+- 🤔 Seeking guidance and collaboration in the realm of Artificial Intelligence and its integration with battery management systems.
+- 💬 Happy to discuss Rust, battery management system design, and the intricacies of data-driven battery monitoring and analytics.
 - 📫 Reach out to me [here](your-contact-link).
 
 ### Personal Tidbits:
