@@ -16,7 +16,7 @@ As a passionate Rust programmer, I'm harnessing my skills with the goal of not j
 - 👯 Keen on collaborating on impactful real-world projects, especially in the renewable energy and battery technology space.
 - 🤔 Seeking guidance and collaboration in the realm of Artificial Intelligence and its integration with battery management systems.
 - 💬 Happy to discuss Rust, battery management system design, and the intricacies of data-driven battery monitoring and analytics.
-- 📫 Reach out to me [here](your-contact-link).
+- 📫 Reach out to me [here](https://wheregmis.github.io/).
 
 ### Personal Tidbits:
 - 😄 Pronouns: He/Him
